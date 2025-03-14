@@ -1,5 +1,6 @@
 2079245
 2076420
-Processore1 (processori.md)
-Schede madri (schede_madri.md)
+#Componenti
+Processore1 (componenti/processori.md)
+Schede madri (componenti/schede_madri.md)
 Elettronica Padovana
